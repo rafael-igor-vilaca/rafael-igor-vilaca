@@ -1,6 +1,18 @@
-### Quem sou eu?
+# Quem sou eu?
   Meu nome é Rafael Igor Vilaça, sou um aluno do 3° ano do curso de Informática do CEFET-MG em busca de uma oportunidade de experiência profissional.
 
+## Profissional
+
+Apesar da pouca experiência no mercado de trabalho, pude perceber durante a minha jornada acadêmica que estas são algumas das minhas principais habilidades: 
+
+- Aprendizado rápido
+- Trabalho em equipe
+- Proatividade
+- Comunicação assertiva
+- Resolução de problemas
+- Organização e gestão de tempo
+
+## Status
 ![Status Rafael](https://github-readme-stats.vercel.app/api?username=rafael-igor-vilaca&theme=dracula&show_icons=true&rank_icon=github&locale=pt-br)
 
 ## Algumas tecnologias que já utilizei
@@ -17,5 +29,5 @@
 
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-igor-vilaça-739605342)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafa.igor06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-igor-vilaça-739605342)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafa.igor06@gmail.com)
