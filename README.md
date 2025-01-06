@@ -1,5 +1,5 @@
 # Quem sou eu?
-  Meu nome é Rafael Igor Vilaça, sou um aluno do 3° ano do curso de Informática do CEFET-MG em busca de uma oportunidade de experiência profissional.
+  Meu nome é Rafael Igor Vilaça, sou um aluno do 3° ano do curso de Informática do CEFET-MG em busca de uma oportunidade de trabalho na área de Tecnologia da Informação.
 
 ## Profissional
 
